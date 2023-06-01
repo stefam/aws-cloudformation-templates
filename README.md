@@ -10,3 +10,10 @@ All workflows will require you to have three GitHub Secrets setup:
 ## Templates
 
 ### 1. Basic VPC and Subnets structure
+WIP
+
+### 2. VPC Peering
+WIP
+
+### 3. VPN Client
+WIP
