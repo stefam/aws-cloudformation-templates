@@ -10,7 +10,7 @@ All workflows will require you to have three GitHub Secrets setup:
 ## Templates
 
 ### 1. Basic VPC and Subnets structure
-WIP
+![basic-network-diagram](https://github.com/stefam/aws-cloudformation-templates/assets/12499171/98992c08-4340-4384-b2e9-d77b3b3249e4)
 
 ### 2. VPC Peering
 WIP
